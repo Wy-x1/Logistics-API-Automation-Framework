@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Pytest 缓存
+.pytest_cache/
+
+# 测试报告和临时文件 (根据你的运行日志调整)
+report/
+result/
+temp/
+*.xml
+*.html
+*.log
+
+# 环境变量或敏感配置 (如果有)
+.env
+venv/
+.idea/
